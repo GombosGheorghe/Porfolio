@@ -1,0 +1,18 @@
+.name {
+    text-align: center;
+    
+    a{
+        padding: 0 8rem;
+        text-transform: uppercase;
+        font-weight: 600;
+        font-size: 3rem;
+        
+        
+        &:hover{
+            color: #C55F11;
+            letter-spacing: 4px;
+            transition: all .35s;
+            opacity: 1;
+        }
+    }
+}
